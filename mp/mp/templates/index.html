@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function updateDestinationOptions() {
+            var sourceSelect = document.getElementById("x0");
+            var destinationSelect = document.getElementById("x1");
+            var selectedSource = sourceSelect.value;
+
+            // Clear existing options in x1
+            destinationSelect.innerHTML = '';
+
+            // Create a default option
+            var defaultOption = document.createElement("option");
+            defaultOption.text = "Select Destination";
+            defaultOption.value = "";
+            destinationSelect.add(defaultOption);
+
+            // Add destination options based on the selected source
+            if (selectedSource === "nigadi") {
+                var option = document.createElement("option");
+                option.text = "Wagholi";
+                option.value = "wagholi";
+                destinationSelect.add(option);
+            } else if (selectedSource === "wagholi") {
+                var option = document.createElement("option");
+                option.text = "Nigadi";
+                option.value = "nigadi";
+                destinationSelect.add(option);
+            }
+        }
+
+        function updateWeekday() {
+            var dateInput = document.getElementById("date");
+            var weekdayInput = document.getElementById("weekday");
+
+            // Get the selected date
+            var selectedDate = new Date(dateInput.value);
+
+            // Get the weekday (0 = Sunday, 1 = Monday, ..., 6 = Saturday)
+            var weekday = selectedDate.getDay();
+
+            // Define an array of weekday names
+            var weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+            // Update the input value
+            weekdayInput.value = weekdays[weekday];
+        }
+    </script>
+    <style>
+        h1, h2 {
+    color: white;
+}
+        body {
+            background-color: rgb(234, 241, 241);
+            background-image: url('https://static.vecteezy.com/system/resources/thumbnails/024/893/578/small/driving-through-the-city-at-night-amidst-the-traffic-jam-generated-by-ai-free-photo.jpg');
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            height:100vh;
+            width:100vw;
+            overflow-x:hidden;
+
+background-attachment: fixed;
+text-align: center;
+        }
+        .image{
+background:url('data:image/png;base64,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');
+position:absolute;
+z-index: 3;
+left:0px;
+height:150px;
+width:150px;
+ background-size: 100% 100%;
+        }
+   
+.form{
+
+place-items:center;
+display:grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-column-gap:10px;
+height:50%;
+width:90%;
+}
+.flex{
+display:flex;
+ width:100vw;
+    position:absolute;
+    z-index:3;
+    justify-content: space-between;
+    align-items: center;
+}
+input,select{
+width:200px;
+padding:5px;
+    margin:10px;
+
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.move{
+
+display:grid;
+place-items:center;
+  
+}
+.top{
+  width:50%;
+  height:50%;
+  object-fit:contain;
+  margin:50px;
+}
+
+.bottom{
+
+display:flex;
+justify-content:space-between;
+width:100%;
+height:100%;
+}
+.moved{
+margin:10px;
+
+}
+    </style>
+</head>
+<div>
+
+
+<main>
+ <div  class="image">
+
+</div>
+<h2  >G.H. RAISONI INSTITUTE OF INFORMATION AND TECHNOLOGY </h2>
+
+<h1>TRAFFIC AWARENESS ONE DAY BEFORE TRAVEL</h1>
+    
+</main>
+
+<form action="/predict" method="POST">
+<div class="form">
+
+    <div>
+        <label><h2>Date</h2></label>
+        <input type="date" name="date" id="date" onchange="updateWeekday()">
+    </div>
+
+    <!-- Display the selected weekday as an input -->
+    <div>
+        <label><h2>Weekday</h2></label>
+        <input type="text" name="weekday" id="weekday" readonly>
+    </div>
+<div>
+
+<label><h2>time</h2></label>
+<input type="time" name="time" id="time">
+</div>
+
+
+<div>
+
+<label><h2>is holiday</h2></label>
+<select name="isholiday" id="isholiday">
+    <option value="yes">yes</option>
+    <option value="no">no</option>
+</select>
+</div>
+
+<div>
+    <label><h2>Source</h2></label>
+    <select name="x0" id="x0" onchange="updateDestinationOptions()">
+        <option value="nigadi">Nigadi</option>
+        <option value="wagholi">Wagholi</option>
+    </select>
+</div>
+</div>
+<div class="move">
+<div>
+    <label><h2>Destination</h2></label>
+    <select name="x1" id="x1">
+        <option value="nigadi">Nigadi</option>
+        <option value="wagholi">Wagholi</option>
+    </select>
+</div>
+<div>
+
+    <label><h2>Route</h2></label>
+
+    <select name="x2" id="x2">
+        <option value="lohagaon road">Lohgaon Road</option>
+        <option value="khadaki">Kharadi</option>
+          </select>
+</div>
+<div class="moved">
+
+    <input type="submit" value="predict" class="btn btn-success"/>
+</div>
+</div>
+
+    </form>
+
+
+
+
+{% block body %} {% endblock%}
+</body>
+</html>

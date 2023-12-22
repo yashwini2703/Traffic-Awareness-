@@ -1,0 +1,703 @@
+date_time,source,destination,route,is_holiday,weekday,day,month,hour,year,traffic
+4/1/2022 0:00,wagholi,nigadi,Lohgaon Rd,1,5,1,4,0,2022,3500
+12/7/2022 0:00,wagholi,nigadi,Lohgaon Rd,1,3,7,12,0,2022,3200
+3/3/2022 0:00,wagholi,nigadi,Khadaki,1,4,3,3,0,2022,3000
+3/28/2022 0:00,wagholi,nigadi,Khadaki,1,1,28,3,0,2022,3000
+1/12/2022 0:00,wagholi,nigadi,Khadaki,1,3,12,1,0,2022,2900
+9/19/2022 0:00,wagholi,nigadi,Khadaki,1,1,19,9,0,2022,2847
+4/22/2022 0:00,wagholi,nigadi,Khadaki,1,5,22,4,0,2022,2800
+9/23/2022 0:00,wagholi,nigadi,Lohgaon Rd,1,5,23,9,0,2022,2700
+6/11/2022 0:00,wagholi,nigadi,Khadaki,1,6,11,6,0,2022,2643
+12/28/2022 0:00,wagholi,nigadi,Khadaki,1,3,28,12,0,2022,2387
+10/18/2022 0:00,wagholi,nigadi,Lohgaon Rd,1,2,18,10,0,2022,2000
+11/12/2022 0:00,wagholi,nigadi,Lohgaon Rd,1,6,12,11,0,2022,2000
+8/25/2022 0:00,wagholi,nigadi,Khadaki,1,4,25,8,0,2022,1953
+10/14/2022 0:00,wagholi,nigadi,Khadaki,1,5,14,10,0,2022,1867
+7/6/2022 0:00,wagholi,nigadi,Khadaki,1,3,6,7,0,2022,1765
+12/3/2022 0:00,wagholi,nigadi,Khadaki,1,6,3,12,0,2022,1765
+11/8/2022 0:00,wagholi,nigadi,Khadaki,1,2,8,11,0,2022,1654
+7/31/2022 0:00,wagholi,nigadi,Khadaki,1,7,31,7,0,2022,1650
+2/6/2022 0:00,wagholi,nigadi,Khadaki,1,7,6,2,0,2022,1000
+1/17/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,1,17,1,1,2022,2200
+9/20/2022 1:00,wagholi,nigadi,Khadaki,1,2,20,9,1,2022,1875
+6/12/2022 1:00,wagholi,nigadi,Khadaki,1,7,12,6,1,2022,1748
+8/26/2022 1:00,wagholi,nigadi,Khadaki,1,5,26,8,1,2022,1674
+4/2/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,6,2,4,1,2022,1200
+8/1/2022 1:00,wagholi,nigadi,Khadaki,1,1,1,8,1,2022,1200
+6/16/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,4,16,6,1,2022,1034
+7/11/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,1,11,7,1,2022,1023
+1/13/2022 1:00,wagholi,nigadi,Khadaki,1,4,13,1,1,2022,1000
+3/3/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,4,3,3,1,2022,1000
+3/4/2022 1:00,wagholi,nigadi,Khadaki,1,5,4,3,1,2022,1000
+3/8/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,2,8,3,1,2022,1000
+3/29/2022 1:00,wagholi,nigadi,Khadaki,1,2,29,3,1,2022,1000
+4/23/2022 1:00,wagholi,nigadi,Khadaki,1,6,23,4,1,2022,1000
+5/18/2022 1:00,wagholi,nigadi,Khadaki,1,3,18,5,1,2022,1000
+8/5/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,5,5,8,1,2022,1000
+9/24/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,6,24,9,1,2022,1000
+10/19/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,3,19,10,1,2022,1000
+7/7/2022 1:00,wagholi,nigadi,Khadaki,1,4,7,7,1,2022,999
+11/9/2022 1:00,wagholi,nigadi,Khadaki,1,3,9,11,1,2022,999
+10/15/2022 1:00,wagholi,nigadi,Khadaki,1,6,15,10,1,2022,987
+2/7/2022 1:00,wagholi,nigadi,Khadaki,1,1,7,2,1,2022,920
+12/4/2022 1:00,wagholi,nigadi,Khadaki,1,7,4,12,1,2022,912
+2/11/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,5,11,2,1,2022,900
+8/30/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,2,30,8,1,2022,900
+11/13/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,7,13,11,1,2022,900
+12/8/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,4,8,12,1,2022,900
+4/27/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,3,27,4,1,2022,899
+5/22/2022 1:00,wagholi,nigadi,Lohgaon Rd,1,7,22,5,1,2022,789
+12/29/2022 1:00,wagholi,nigadi,Khadaki,1,4,29,12,1,2022,187
+10/20/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,4,20,10,2,2022,990
+7/8/2022 2:00,wagholi,nigadi,Khadaki,1,5,8,7,2,2022,989
+1/14/2022 2:00,wagholi,nigadi,Khadaki,1,5,14,1,2,2022,980
+6/13/2022 2:00,wagholi,nigadi,Khadaki,1,1,13,6,2,2022,977
+3/7/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,1,7,3,2,2022,960
+12/9/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,5,9,12,2,2022,960
+8/27/2022 2:00,wagholi,nigadi,Khadaki,1,6,27,8,2,2022,956
+3/9/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,3,9,3,2,2022,950
+2/8/2022 2:00,wagholi,nigadi,Khadaki,1,2,8,2,2,2022,930
+8/2/2022 2:00,wagholi,nigadi,Khadaki,1,2,2,8,2,2022,923
+11/14/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,1,14,11,2,2022,920
+3/4/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,5,4,3,2,2022,900
+3/5/2022 2:00,wagholi,nigadi,Khadaki,1,6,5,3,2,2022,900
+8/6/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,6,6,8,2,2022,900
+9/25/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,7,25,9,2,2022,900
+1/18/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,2,18,1,2,2022,876
+4/24/2022 2:00,wagholi,nigadi,Khadaki,1,7,24,4,2,2022,876
+4/28/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,4,28,4,2,2022,876
+6/17/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,5,17,6,2,2022,876
+7/12/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,2,12,7,2,2022,866
+10/16/2022 2:00,wagholi,nigadi,Khadaki,1,7,16,10,2,2022,845
+5/23/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,1,23,5,2,2022,802
+2/12/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,6,12,2,2,2022,800
+8/31/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,3,31,8,2,2022,800
+9/21/2022 2:00,wagholi,nigadi,Khadaki,1,3,21,9,2,2022,756
+4/3/2022 2:00,wagholi,nigadi,Lohgaon Rd,1,7,3,4,2,2022,654
+5/19/2022 2:00,wagholi,nigadi,Khadaki,1,4,19,5,2,2022,654
+11/10/2022 2:00,wagholi,nigadi,Khadaki,1,4,10,11,2,2022,635
+12/5/2022 2:00,wagholi,nigadi,Khadaki,1,1,5,12,2,2022,598
+3/30/2022 2:00,wagholi,nigadi,Khadaki,1,3,30,3,2,2022,566
+1/15/2022 3:00,wagholi,nigadi,Khadaki,1,6,15,1,3,2022,990
+6/14/2022 3:00,wagholi,nigadi,Khadaki,1,2,14,6,3,2022,989
+6/18/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,6,18,6,3,2022,987
+8/7/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,7,7,8,3,2022,987
+8/28/2022 3:00,wagholi,nigadi,Khadaki,1,7,28,8,3,2022,984
+5/24/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,2,24,5,3,2022,982
+7/13/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,3,13,7,3,2022,982
+3/6/2022 3:00,wagholi,nigadi,Khadaki,1,7,6,3,3,2022,980
+3/31/2022 3:00,wagholi,nigadi,Khadaki,1,4,31,3,3,2022,980
+10/21/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,5,21,10,3,2022,980
+7/9/2022 3:00,wagholi,nigadi,Khadaki,1,6,9,7,3,2022,978
+1/19/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,3,19,1,3,2022,970
+4/25/2022 3:00,wagholi,nigadi,Khadaki,1,1,25,4,3,2022,960
+3/5/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,6,5,3,3,2022,950
+4/4/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,1,4,4,3,2022,950
+2/9/2022 3:00,wagholi,nigadi,Khadaki,1,3,9,2,3,2022,940
+11/15/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,2,15,11,3,2022,930
+3/10/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,4,10,3,3,2022,900
+12/10/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,6,10,12,3,2022,900
+8/3/2022 3:00,wagholi,nigadi,Khadaki,1,3,3,8,3,2022,876
+10/17/2022 3:00,wagholi,nigadi,Khadaki,1,1,17,10,3,2022,876
+11/11/2022 3:00,wagholi,nigadi,Khadaki,1,5,11,11,3,2022,834
+5/20/2022 3:00,wagholi,nigadi,Khadaki,1,5,20,5,3,2022,784
+9/1/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,4,1,9,3,2022,750
+9/22/2022 3:00,wagholi,nigadi,Khadaki,1,4,22,9,3,2022,746
+4/29/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,5,29,4,3,2022,709
+2/13/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,7,13,2,3,2022,700
+9/26/2022 3:00,wagholi,nigadi,Lohgaon Rd,1,1,26,9,3,2022,700
+12/6/2022 3:00,wagholi,nigadi,Khadaki,1,2,6,12,3,2022,654
+5/25/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,3,25,5,4,2022,1001
+1/16/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,7,16,1,4,2022,1000
+1/20/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,4,20,1,4,2022,1000
+7/10/2022 4:00,wagholi,nigadi,Khadaki,1,7,10,7,4,2022,1000
+10/22/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,6,22,10,4,2022,1000
+1/16/2022 4:00,wagholi,nigadi,Khadaki,1,7,16,1,4,2022,995
+3/7/2022 4:00,wagholi,nigadi,Khadaki,1,1,7,3,4,2022,990
+8/8/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,1,8,8,4,2022,990
+8/29/2022 4:00,wagholi,nigadi,Khadaki,1,1,29,8,4,2022,986
+9/23/2022 4:00,wagholi,nigadi,Khadaki,1,5,23,9,4,2022,984
+4/1/2022 4:00,wagholi,nigadi,Khadaki,1,5,1,4,4,2022,970
+4/26/2022 4:00,wagholi,nigadi,Khadaki,1,2,26,4,4,2022,970
+9/2/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,5,2,9,4,2022,970
+4/5/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,2,5,4,4,2022,960
+6/15/2022 4:00,wagholi,nigadi,Khadaki,1,3,15,6,4,2022,957
+2/10/2022 4:00,wagholi,nigadi,Khadaki,1,4,10,2,4,2022,950
+5/21/2022 4:00,wagholi,nigadi,Khadaki,1,6,21,5,4,2022,948
+11/16/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,3,16,11,4,2022,940
+9/27/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,2,27,9,4,2022,900
+12/11/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,7,11,12,4,2022,900
+7/14/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,4,14,7,4,2022,899
+6/19/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,7,19,6,4,2022,890
+8/4/2022 4:00,wagholi,nigadi,Khadaki,1,4,4,8,4,2022,876
+3/11/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,5,11,3,4,2022,850
+11/12/2022 4:00,wagholi,nigadi,Khadaki,1,6,12,11,4,2022,789
+12/7/2022 4:00,wagholi,nigadi,Khadaki,1,3,7,12,4,2022,789
+10/18/2022 4:00,wagholi,nigadi,Khadaki,1,2,18,10,4,2022,756
+2/14/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,1,14,2,4,2022,659
+4/30/2022 4:00,wagholi,nigadi,Lohgaon Rd,1,6,30,4,4,2022,500
+4/2/2022 5:00,wagholi,nigadi,Khadaki,1,6,2,4,5,2022,2000
+8/9/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,2,9,8,5,2022,2000
+10/23/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,7,23,10,5,2022,2000
+10/19/2022 5:00,wagholi,nigadi,Khadaki,1,3,19,10,5,2022,1745
+9/24/2022 5:00,wagholi,nigadi,Khadaki,1,6,24,9,5,2022,1654
+8/30/2022 5:00,wagholi,nigadi,Khadaki,1,2,30,8,5,2022,1543
+7/11/2022 5:00,wagholi,nigadi,Khadaki,1,1,11,7,5,2022,1542
+6/20/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,1,20,6,5,2022,1394
+5/22/2022 5:00,wagholi,nigadi,Khadaki,1,7,22,5,5,2022,1243
+1/21/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,5,21,1,5,2022,1234
+11/13/2022 5:00,wagholi,nigadi,Khadaki,1,7,13,11,5,2022,1234
+1/17/2022 5:00,wagholi,nigadi,Khadaki,1,1,17,1,5,2022,1000
+3/12/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,6,12,3,5,2022,1000
+4/6/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,3,6,4,5,2022,1000
+4/27/2022 5:00,wagholi,nigadi,Khadaki,1,3,27,4,5,2022,1000
+9/3/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,6,3,9,5,2022,1000
+12/12/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,1,12,12,5,2022,1000
+5/26/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,4,26,5,5,2022,992
+12/8/2022 5:00,wagholi,nigadi,Khadaki,1,4,8,12,5,2022,987
+6/16/2022 5:00,wagholi,nigadi,Khadaki,1,4,16,6,5,2022,985
+2/11/2022 5:00,wagholi,nigadi,Khadaki,1,5,11,2,5,2022,980
+3/8/2022 5:00,wagholi,nigadi,Khadaki,1,2,8,3,5,2022,980
+11/17/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,4,17,11,5,2022,980
+8/5/2022 5:00,wagholi,nigadi,Khadaki,1,5,5,8,5,2022,976
+7/15/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,5,15,7,5,2022,908
+2/15/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,2,15,2,5,2022,700
+9/28/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,3,28,9,5,2022,650
+5/1/2022 5:00,wagholi,nigadi,Lohgaon Rd,1,7,1,5,5,2022,430
+9/4/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,7,4,9,6,2022,5503
+9/29/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,4,29,9,6,2022,5501
+8/31/2022 6:00,wagholi,nigadi,Khadaki,1,3,31,8,6,2022,2754
+11/14/2022 6:00,wagholi,nigadi,Khadaki,1,1,14,11,6,2022,2744
+12/9/2022 6:00,wagholi,nigadi,Khadaki,1,5,9,12,6,2022,2677
+1/18/2022 6:00,wagholi,nigadi,Khadaki,1,2,18,1,6,2022,2500
+2/12/2022 6:00,wagholi,nigadi,Khadaki,1,6,12,2,6,2022,2500
+6/21/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,2,21,6,6,2022,2345
+10/20/2022 6:00,wagholi,nigadi,Khadaki,1,4,20,10,6,2022,2336
+8/10/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,3,10,8,6,2022,2100
+5/27/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,5,27,5,6,2022,2011
+2/16/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,3,16,2,6,2022,2000
+3/9/2022 6:00,wagholi,nigadi,Khadaki,1,3,9,3,6,2022,2000
+3/13/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,7,13,3,6,2022,2000
+4/7/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,4,7,4,6,2022,2000
+10/24/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,1,24,10,6,2022,2000
+12/13/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,2,13,12,6,2022,2000
+5/2/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,1,2,5,6,2022,1999
+6/17/2022 6:00,wagholi,nigadi,Khadaki,1,5,17,6,6,2022,1754
+9/25/2022 6:00,wagholi,nigadi,Khadaki,1,7,25,9,6,2022,1743
+7/12/2022 6:00,wagholi,nigadi,Khadaki,1,2,12,7,6,2022,1654
+4/3/2022 6:00,wagholi,nigadi,Khadaki,1,7,3,4,6,2022,1500
+5/23/2022 6:00,wagholi,nigadi,Khadaki,1,1,23,5,6,2022,1212
+4/28/2022 6:00,wagholi,nigadi,Khadaki,1,4,28,4,6,2022,1200
+11/18/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,5,18,11,6,2022,1000
+8/6/2022 6:00,wagholi,nigadi,Khadaki,1,6,6,8,6,2022,999
+7/16/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,6,16,7,6,2022,922
+1/22/2022 6:00,wagholi,nigadi,Lohgaon Rd,1,6,22,1,6,2022,700
+9/5/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,1,5,9,7,2022,5504
+9/30/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,5,30,9,7,2022,5513
+1/19/2022 7:00,wagholi,nigadi,Khadaki,1,3,19,1,7,2022,3900
+9/1/2022 7:00,wagholi,nigadi,Khadaki,1,4,1,9,7,2022,3645
+6/22/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,3,22,6,7,2022,3456
+2/13/2022 7:00,wagholi,nigadi,Khadaki,1,7,13,2,7,2022,3000
+2/17/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,4,17,2,7,2022,3000
+3/10/2022 7:00,wagholi,nigadi,Khadaki,1,4,10,3,7,2022,3000
+3/14/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,1,14,3,7,2022,3000
+4/8/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,5,8,4,7,2022,3000
+8/11/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,4,11,8,7,2022,3000
+7/13/2022 7:00,wagholi,nigadi,Khadaki,1,3,13,7,7,2022,2768
+9/26/2022 7:00,wagholi,nigadi,Khadaki,1,1,26,9,7,2022,2764
+10/25/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,2,25,10,7,2022,2500
+12/14/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,3,14,12,7,2022,2500
+10/21/2022 7:00,wagholi,nigadi,Khadaki,1,5,21,10,7,2022,2345
+11/15/2022 7:00,wagholi,nigadi,Khadaki,1,2,15,11,7,2022,2345
+5/24/2022 7:00,wagholi,nigadi,Khadaki,1,2,24,5,7,2022,2344
+12/10/2022 7:00,wagholi,nigadi,Khadaki,1,6,10,12,7,2022,2311
+4/4/2022 7:00,wagholi,nigadi,Khadaki,1,1,4,4,7,2022,2000
+4/29/2022 7:00,wagholi,nigadi,Khadaki,1,5,29,4,7,2022,2000
+5/3/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,2,3,5,7,2022,2000
+5/28/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,6,28,5,7,2022,1999
+6/18/2022 7:00,wagholi,nigadi,Khadaki,1,6,18,6,7,2022,1340
+8/7/2022 7:00,wagholi,nigadi,Khadaki,1,7,7,8,7,2022,1265
+7/17/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,7,17,7,7,2022,1000
+11/19/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,6,19,11,7,2022,1000
+1/23/2022 7:00,wagholi,nigadi,Lohgaon Rd,1,7,23,1,7,2022,700
+9/6/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,2,6,9,8,2022,5502
+10/1/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,6,1,10,8,2022,5502
+1/24/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,1,24,1,8,2022,5000
+9/2/2022 8:00,wagholi,nigadi,Khadaki,1,5,2,9,8,2022,4363
+11/16/2022 8:00,wagholi,nigadi,Khadaki,1,3,16,11,8,2022,4321
+6/23/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,4,23,6,8,2022,4087
+2/18/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,5,18,2,8,2022,4000
+3/11/2022 8:00,wagholi,nigadi,Khadaki,1,5,11,3,8,2022,4000
+3/15/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,2,15,3,8,2022,4000
+8/12/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,5,12,8,8,2022,4000
+1/20/2022 8:00,wagholi,nigadi,Khadaki,1,4,20,1,8,2022,3999
+5/29/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,7,29,5,8,2022,3982
+5/4/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,3,4,5,8,2022,3920
+7/14/2022 8:00,wagholi,nigadi,Khadaki,1,4,14,7,8,2022,3876
+9/27/2022 8:00,wagholi,nigadi,Khadaki,1,2,27,9,8,2022,3857
+2/14/2022 8:00,wagholi,nigadi,Khadaki,1,1,14,2,8,2022,3800
+12/11/2022 8:00,wagholi,nigadi,Khadaki,1,7,11,12,8,2022,3776
+10/22/2022 8:00,wagholi,nigadi,Khadaki,1,6,22,10,8,2022,3721
+7/18/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,1,18,7,8,2022,3456
+8/8/2022 8:00,wagholi,nigadi,Khadaki,1,1,8,8,8,2022,3324
+5/25/2022 8:00,wagholi,nigadi,Khadaki,1,3,25,5,8,2022,3211
+4/5/2022 8:00,wagholi,nigadi,Khadaki,1,2,5,4,8,2022,3000
+12/15/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,4,15,12,8,2022,3000
+10/26/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,3,26,10,8,2022,2600
+4/9/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,6,9,4,8,2022,2000
+6/19/2022 8:00,wagholi,nigadi,Khadaki,1,7,19,6,8,2022,1321
+11/20/2022 8:00,wagholi,nigadi,Lohgaon Rd,1,7,20,11,8,2022,1200
+4/30/2022 8:00,wagholi,nigadi,Khadaki,1,6,30,4,8,2022,789
+9/7/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,3,7,9,9,2022,5501
+5/5/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,4,5,5,9,2022,5514
+10/2/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,7,2,10,9,2022,5518
+6/24/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,5,24,6,9,2022,5524
+2/19/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,6,19,2,9,2022,5503
+7/19/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,2,19,7,9,2022,5678
+5/30/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,1,30,5,9,2022,5593
+3/16/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,3,16,3,9,2022,5512
+12/12/2022 9:00,wagholi,nigadi,Khadaki,1,1,12,12,9,2022,5289
+2/15/2022 9:00,wagholi,nigadi,Khadaki,1,2,15,2,9,2022,5000
+4/10/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,7,10,4,9,2022,5000
+6/20/2022 9:00,wagholi,nigadi,Khadaki,1,1,20,6,9,2022,4738
+11/17/2022 9:00,wagholi,nigadi,Khadaki,1,4,17,11,9,2022,4678
+7/15/2022 9:00,wagholi,nigadi,Khadaki,1,5,15,7,9,2022,4657
+8/9/2022 9:00,wagholi,nigadi,Khadaki,1,2,9,8,9,2022,4567
+10/23/2022 9:00,wagholi,nigadi,Khadaki,1,7,23,10,9,2022,4362
+5/26/2022 9:00,wagholi,nigadi,Khadaki,1,4,26,5,9,2022,4353
+9/28/2022 9:00,wagholi,nigadi,Khadaki,1,3,28,9,9,2022,4132
+1/25/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,2,25,1,9,2022,4068
+1/21/2022 9:00,wagholi,nigadi,Khadaki,1,5,21,1,9,2022,4000
+11/21/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,1,21,11,9,2022,4000
+12/16/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,5,16,12,9,2022,4000
+4/6/2022 9:00,wagholi,nigadi,Khadaki,1,3,6,4,9,2022,3500
+10/27/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,4,27,10,9,2022,2344
+9/3/2022 9:00,wagholi,nigadi,Khadaki,1,6,3,9,9,2022,2356
+8/13/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,6,13,8,9,2022,2344
+8/29/2022 9:00,wagholi,nigadi,Lohgaon Rd,1,1,29,8,9,2022,2344
+5/1/2022 9:00,wagholi,nigadi,Khadaki,1,7,1,5,9,2022,3233
+3/12/2022 9:00,wagholi,nigadi,Khadaki,1,6,12,3,9,2022,2355
+10/3/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,1,3,10,10,2022,5508
+4/26/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,2,26,4,10,2022,5515
+5/6/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,5,6,5,10,2022,5516
+5/31/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,2,31,5,10,2022,5517
+7/20/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,3,20,7,10,2022,5500
+6/15/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,3,15,6,10,2022,5789
+5/2/2022 10:00,wagholi,nigadi,Khadaki,1,1,2,5,10,2022,5567
+12/13/2022 10:00,wagholi,nigadi,Khadaki,1,2,13,12,10,2022,5543
+3/17/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,4,17,3,10,2022,5300
+2/16/2022 10:00,wagholi,nigadi,Khadaki,1,3,16,2,10,2022,5200
+4/11/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,1,11,4,10,2022,5200
+5/17/2022 10:00,wagholi,nigadi,Khadaki,1,2,17,5,10,2022,4536
+2/20/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,7,20,2,10,2022,4500
+4/7/2022 10:00,wagholi,nigadi,Khadaki,1,4,7,4,10,2022,4500
+11/22/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,2,22,11,10,2022,4500
+8/10/2022 10:00,wagholi,nigadi,Khadaki,1,3,10,8,10,2022,4325
+9/8/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,4,8,9,10,2022,4000
+9/29/2022 10:00,wagholi,nigadi,Khadaki,1,4,29,9,10,2022,3874
+6/21/2022 10:00,wagholi,nigadi,Khadaki,1,2,21,6,10,2022,3859
+5/27/2022 10:00,wagholi,nigadi,Khadaki,1,5,27,5,10,2022,3467
+11/18/2022 10:00,wagholi,nigadi,Khadaki,1,5,18,11,10,2022,3452
+5/16/2022 10:00,wagholi,nigadi,Khadaki,1,1,16,5,10,2022,3555
+6/25/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,6,25,6,10,2022,3544
+10/28/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,5,28,10,10,2022,3654
+9/4/2022 10:00,wagholi,nigadi,Khadaki,1,7,4,9,10,2022,3455
+8/14/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,7,14,8,10,2022,3666
+10/24/2022 10:00,wagholi,nigadi,Khadaki,1,1,24,10,10,2022,3665
+7/16/2022 10:00,wagholi,nigadi,Khadaki,1,6,16,7,10,2022,3877
+1/1/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,6,1,1,10,2022,3655
+1/22/2022 10:00,wagholi,nigadi,Khadaki,1,6,22,1,10,2022,3777
+1/26/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,3,26,1,10,2022,2666
+12/17/2022 10:00,wagholi,nigadi,Lohgaon Rd,1,6,17,12,10,2022,2666
+3/13/2022 10:00,wagholi,nigadi,Khadaki,1,7,13,3,10,2022,2333
+9/9/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,5,9,9,11,2022,5500
+10/4/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,2,4,10,11,2022,5507
+3/18/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,5,18,3,11,2022,5504
+6/1/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,3,1,6,11,2022,5993
+3/14/2022 11:00,wagholi,nigadi,Khadaki,1,1,14,3,11,2022,5500
+2/17/2022 11:00,wagholi,nigadi,Khadaki,1,4,17,2,11,2022,5400
+4/12/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,2,12,4,11,2022,5400
+8/15/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,1,15,8,11,2022,5400
+7/21/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,4,21,7,11,2022,5321
+4/8/2022 11:00,wagholi,nigadi,Khadaki,1,5,8,4,11,2022,5000
+11/23/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,3,23,11,11,2022,5000
+2/21/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,1,21,2,11,2022,4000
+8/11/2022 11:00,wagholi,nigadi,Khadaki,1,4,11,8,11,2022,3544
+1/2/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,7,2,1,11,2022,3400
+5/3/2022 11:00,wagholi,nigadi,Khadaki,1,2,3,5,11,2022,3008
+5/7/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,6,7,5,11,2022,3000
+5/21/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,6,21,5,11,2022,2987
+6/26/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,7,26,6,11,2022,2987
+9/30/2022 11:00,wagholi,nigadi,Khadaki,1,5,30,9,11,2022,2933
+9/5/2022 11:00,wagholi,nigadi,Khadaki,1,1,5,9,11,2022,2754
+1/27/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,4,27,1,11,2022,2500
+6/22/2022 11:00,wagholi,nigadi,Khadaki,1,3,22,6,11,2022,2354
+11/19/2022 11:00,wagholi,nigadi,Khadaki,1,6,19,11,11,2022,2345
+10/25/2022 11:00,wagholi,nigadi,Khadaki,1,2,25,10,11,2022,2344
+12/14/2022 11:00,wagholi,nigadi,Khadaki,1,3,14,12,11,2022,2342
+5/28/2022 11:00,wagholi,nigadi,Khadaki,1,6,28,5,11,2022,2134
+7/17/2022 11:00,wagholi,nigadi,Khadaki,1,7,17,7,11,2022,2000
+10/29/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,6,29,10,11,2022,1000
+1/23/2022 11:00,wagholi,nigadi,Khadaki,1,7,23,1,11,2022,987
+12/18/2022 11:00,wagholi,nigadi,Lohgaon Rd,1,7,18,12,11,2022,900
+10/5/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,3,5,10,12,2022,5505
+5/4/2022 12:00,wagholi,nigadi,Khadaki,1,3,4,5,12,2022,5299
+6/2/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,4,2,6,12,2022,5281
+1/3/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,1,3,1,12,2022,5000
+2/18/2022 12:00,wagholi,nigadi,Khadaki,1,5,18,2,12,2022,5000
+11/24/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,4,24,11,12,2022,4800
+7/22/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,5,22,7,12,2022,4567
+6/27/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,1,27,6,12,2022,4345
+4/13/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,3,13,4,12,2022,4000
+11/20/2022 12:00,wagholi,nigadi,Khadaki,1,7,20,11,12,2022,3865
+9/6/2022 12:00,wagholi,nigadi,Khadaki,1,2,6,9,12,2022,3545
+2/22/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,2,22,2,12,2022,3500
+8/1/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,1,1,8,12,2022,3400
+5/8/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,7,8,5,12,2022,3120
+7/10/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,7,10,7,12,2022,3099
+1/24/2022 12:00,wagholi,nigadi,Khadaki,1,1,24,1,12,2022,3000
+3/15/2022 12:00,wagholi,nigadi,Khadaki,1,2,15,3,12,2022,3000
+12/19/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,1,19,12,12,2022,3000
+5/15/2022 12:00,wagholi,nigadi,Khadaki,1,7,15,5,12,2022,2987
+12/15/2022 12:00,wagholi,nigadi,Khadaki,1,4,15,12,12,2022,2987
+10/1/2022 12:00,wagholi,nigadi,Khadaki,1,6,1,10,12,2022,2855
+1/28/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,5,28,1,12,2022,2600
+7/18/2022 12:00,wagholi,nigadi,Khadaki,1,1,18,7,12,2022,2544
+6/23/2022 12:00,wagholi,nigadi,Khadaki,1,4,23,6,12,2022,2543
+2/10/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,4,10,2,12,2022,2500
+8/12/2022 12:00,wagholi,nigadi,Khadaki,1,5,12,8,12,2022,2456
+3/19/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,6,19,3,12,2022,2000
+8/16/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,2,16,8,12,2022,2000
+9/10/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,6,10,9,12,2022,2000
+10/30/2022 12:00,wagholi,nigadi,Lohgaon Rd,1,7,30,10,12,2022,2000
+5/29/2022 12:00,wagholi,nigadi,Khadaki,1,7,29,5,12,2022,1787
+10/26/2022 12:00,wagholi,nigadi,Khadaki,1,3,26,10,12,2022,1234
+4/9/2022 12:00,wagholi,nigadi,Khadaki,1,6,9,4,12,2022,1000
+2/19/2022 13:00,wagholi,nigadi,Khadaki,1,6,19,2,13,2022,5505
+4/10/2022 13:00,wagholi,nigadi,Khadaki,1,7,10,4,13,2022,5506
+4/14/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,4,14,4,13,2022,5000
+11/25/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,5,25,11,13,2022,5000
+1/4/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,2,4,1,13,2022,4893
+5/5/2022 13:00,wagholi,nigadi,Khadaki,1,4,5,5,13,2022,4837
+8/2/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,2,2,8,13,2022,4588
+12/16/2022 13:00,wagholi,nigadi,Khadaki,1,5,16,12,13,2022,4533
+9/7/2022 13:00,wagholi,nigadi,Khadaki,1,3,7,9,13,2022,4433
+6/3/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,5,3,6,13,2022,4345
+5/9/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,1,9,5,13,2022,4335
+6/28/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,2,28,6,13,2022,4112
+8/17/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,3,17,8,13,2022,4000
+10/2/2022 13:00,wagholi,nigadi,Khadaki,1,7,2,10,13,2022,3762
+1/25/2022 13:00,wagholi,nigadi,Khadaki,1,2,25,1,13,2022,3500
+3/16/2022 13:00,wagholi,nigadi,Khadaki,1,3,16,3,13,2022,3500
+10/31/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,1,31,10,13,2022,3500
+12/20/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,2,20,12,13,2022,3500
+11/21/2022 13:00,wagholi,nigadi,Khadaki,1,1,21,11,13,2022,3457
+6/24/2022 13:00,wagholi,nigadi,Khadaki,1,5,24,6,13,2022,3454
+7/23/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,6,23,7,13,2022,3002
+2/23/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,3,23,2,13,2022,3000
+10/6/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,4,6,10,13,2022,3000
+5/30/2022 13:00,wagholi,nigadi,Khadaki,1,1,30,5,13,2022,2977
+10/27/2022 13:00,wagholi,nigadi,Khadaki,1,4,27,10,13,2022,2957
+7/19/2022 13:00,wagholi,nigadi,Khadaki,1,2,19,7,13,2022,2654
+3/20/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,7,20,3,13,2022,2500
+9/11/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,7,11,9,13,2022,2500
+8/13/2022 13:00,wagholi,nigadi,Khadaki,1,6,13,8,13,2022,2343
+1/29/2022 13:00,wagholi,nigadi,Lohgaon Rd,1,6,29,1,13,2022,1500
+9/8/2022 14:00,wagholi,nigadi,Khadaki,1,4,8,9,14,2022,5433
+10/3/2022 14:00,wagholi,nigadi,Khadaki,1,1,3,10,14,2022,4932
+5/6/2022 14:00,wagholi,nigadi,Khadaki,1,5,6,5,14,2022,4902
+6/29/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,3,29,6,14,2022,4876
+1/5/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,3,5,1,14,2022,4560
+3/21/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,1,21,3,14,2022,4500
+8/18/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,4,18,8,14,2022,4500
+1/26/2022 14:00,wagholi,nigadi,Khadaki,1,3,26,1,14,2022,4000
+3/17/2022 14:00,wagholi,nigadi,Khadaki,1,4,17,3,14,2022,4000
+4/11/2022 14:00,wagholi,nigadi,Khadaki,1,1,11,4,14,2022,4000
+9/12/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,1,12,9,14,2022,4000
+10/7/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,5,7,10,14,2022,4000
+11/1/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,2,1,11,14,2022,4000
+12/21/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,3,21,12,14,2022,4000
+5/10/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,2,10,5,14,2022,3879
+11/22/2022 14:00,wagholi,nigadi,Khadaki,1,2,22,11,14,2022,3654
+6/25/2022 14:00,wagholi,nigadi,Khadaki,1,6,25,6,14,2022,3574
+2/24/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,4,24,2,14,2022,3500
+12/17/2022 14:00,wagholi,nigadi,Khadaki,1,6,17,12,14,2022,3453
+6/4/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,6,4,6,14,2022,3422
+8/14/2022 14:00,wagholi,nigadi,Khadaki,1,7,14,8,14,2022,3333
+10/28/2022 14:00,wagholi,nigadi,Khadaki,1,5,28,10,14,2022,2873
+5/31/2022 14:00,wagholi,nigadi,Khadaki,1,2,31,5,14,2022,2658
+7/20/2022 14:00,wagholi,nigadi,Khadaki,1,3,20,7,14,2022,2654
+7/24/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,7,24,7,14,2022,2344
+2/20/2022 14:00,wagholi,nigadi,Khadaki,1,7,20,2,14,2022,2000
+4/15/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,5,15,4,14,2022,2000
+1/30/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,7,30,1,14,2022,1600
+1/1/2022 14:00,wagholi,nigadi,Khadaki,1,6,1,1,14,2022,1000
+11/26/2022 14:00,wagholi,nigadi,Lohgaon Rd,1,6,26,11,14,2022,1000
+9/9/2022 15:00,wagholi,nigadi,Khadaki,1,5,9,9,15,2022,5522
+3/18/2022 15:00,wagholi,nigadi,Khadaki,1,5,18,3,15,2022,5507
+8/4/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,4,4,8,15,2022,5400
+6/30/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,4,30,6,15,2022,5111
+3/22/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,2,22,3,15,2022,5000
+8/19/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,5,19,8,15,2022,5000
+12/22/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,4,22,12,15,2022,5000
+5/11/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,3,11,5,15,2022,4999
+10/4/2022 15:00,wagholi,nigadi,Khadaki,1,2,4,10,15,2022,4689
+1/27/2022 15:00,wagholi,nigadi,Khadaki,1,4,27,1,15,2022,4500
+1/31/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,1,31,1,15,2022,4500
+2/25/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,5,25,2,15,2022,4500
+4/12/2022 15:00,wagholi,nigadi,Khadaki,1,2,12,4,15,2022,4500
+10/8/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,6,8,10,15,2022,4500
+11/2/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,3,2,11,15,2022,4500
+7/25/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,1,25,7,15,2022,4321
+1/6/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,4,6,1,15,2022,4300
+9/13/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,2,13,9,15,2022,4200
+2/21/2022 15:00,wagholi,nigadi,Khadaki,1,1,21,2,15,2022,4000
+6/26/2022 15:00,wagholi,nigadi,Khadaki,1,7,26,6,15,2022,3999
+10/29/2022 15:00,wagholi,nigadi,Khadaki,1,6,29,10,15,2022,3987
+11/23/2022 15:00,wagholi,nigadi,Khadaki,1,3,23,11,15,2022,3987
+12/18/2022 15:00,wagholi,nigadi,Khadaki,1,7,18,12,15,2022,3987
+5/7/2022 15:00,wagholi,nigadi,Khadaki,1,6,7,5,15,2022,3927
+8/15/2022 15:00,wagholi,nigadi,Khadaki,1,1,15,8,15,2022,3897
+7/21/2022 15:00,wagholi,nigadi,Khadaki,1,4,21,7,15,2022,3655
+6/5/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,7,5,6,15,2022,2988
+6/1/2022 15:00,wagholi,nigadi,Khadaki,1,3,1,6,15,2022,2569
+4/16/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,6,16,4,15,2022,2000
+11/27/2022 15:00,wagholi,nigadi,Lohgaon Rd,1,7,27,11,15,2022,2000
+1/2/2022 15:00,wagholi,nigadi,Khadaki,1,7,2,1,15,2022,1200
+10/5/2022 16:00,wagholi,nigadi,Khadaki,1,3,5,10,16,2022,5549
+3/23/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,3,23,3,16,2022,5500
+1/28/2022 16:00,wagholi,nigadi,Khadaki,1,5,28,1,16,2022,5000
+4/13/2022 16:00,wagholi,nigadi,Khadaki,1,3,13,4,16,2022,5000
+10/9/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,7,9,10,16,2022,5000
+7/1/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,5,1,7,16,2022,4999
+1/7/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,5,7,1,16,2022,4876
+11/3/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,4,3,11,16,2022,4800
+11/28/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,1,28,11,16,2022,4800
+2/1/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,2,1,2,16,2022,4600
+1/3/2022 16:00,wagholi,nigadi,Khadaki,1,1,3,1,16,2022,4500
+2/22/2022 16:00,wagholi,nigadi,Khadaki,1,2,22,2,16,2022,4500
+9/14/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,3,14,9,16,2022,4500
+12/23/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,5,23,12,16,2022,4400
+8/16/2022 16:00,wagholi,nigadi,Khadaki,1,2,16,8,16,2022,4377
+7/22/2022 16:00,wagholi,nigadi,Khadaki,1,5,22,7,16,2022,4365
+11/24/2022 16:00,wagholi,nigadi,Khadaki,1,4,24,11,16,2022,4321
+12/19/2022 16:00,wagholi,nigadi,Khadaki,1,1,19,12,16,2022,4253
+6/6/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,1,6,6,16,2022,4222
+5/12/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,4,12,5,16,2022,4152
+10/30/2022 16:00,wagholi,nigadi,Khadaki,1,7,30,10,16,2022,3876
+6/2/2022 16:00,wagholi,nigadi,Khadaki,1,4,2,6,16,2022,3765
+6/27/2022 16:00,wagholi,nigadi,Khadaki,1,1,27,6,16,2022,3567
+7/26/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,2,26,7,16,2022,3488
+5/8/2022 16:00,wagholi,nigadi,Khadaki,1,7,8,5,16,2022,3001
+8/20/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,6,20,8,16,2022,3000
+9/10/2022 16:00,wagholi,nigadi,Khadaki,1,6,10,9,16,2022,2897
+2/26/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,6,26,2,16,2022,2500
+4/17/2022 16:00,wagholi,nigadi,Lohgaon Rd,1,7,17,4,16,2022,2300
+3/19/2022 16:00,wagholi,nigadi,Khadaki,1,6,19,3,16,2022,2000
+4/14/2022 17:00,wagholi,nigadi,Khadaki,1,4,14,4,17,2022,5508
+10/10/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,1,10,10,17,2022,5200
+2/23/2022 17:00,wagholi,nigadi,Khadaki,1,3,23,2,17,2022,5000
+3/24/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,4,24,3,17,2022,5000
+9/15/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,4,15,9,17,2022,5000
+11/29/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,2,29,11,17,2022,5000
+6/7/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,2,7,6,17,2022,4999
+5/13/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,5,13,5,17,2022,4993
+11/4/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,5,4,11,17,2022,4900
+7/23/2022 17:00,wagholi,nigadi,Khadaki,1,6,23,7,17,2022,4876
+6/28/2022 17:00,wagholi,nigadi,Khadaki,1,2,28,6,17,2022,4869
+1/4/2022 17:00,wagholi,nigadi,Khadaki,1,2,4,1,17,2022,4800
+2/2/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,3,2,2,17,2022,4800
+10/6/2022 17:00,wagholi,nigadi,Khadaki,1,4,6,10,17,2022,4768
+8/17/2022 17:00,wagholi,nigadi,Khadaki,1,3,17,8,17,2022,4657
+12/30/2022 17:00,wagholi,nigadi,Khadaki,1,5,30,12,17,2022,4573
+11/25/2022 17:00,wagholi,nigadi,Khadaki,1,5,25,11,17,2022,4567
+7/27/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,3,27,7,17,2022,4500
+12/20/2022 17:00,wagholi,nigadi,Khadaki,1,2,20,12,17,2022,4345
+5/9/2022 17:00,wagholi,nigadi,Khadaki,1,1,9,5,17,2022,4329
+10/31/2022 17:00,wagholi,nigadi,Khadaki,1,1,31,10,17,2022,4321
+6/3/2022 17:00,wagholi,nigadi,Khadaki,1,5,3,6,17,2022,4172
+4/18/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,1,18,4,17,2022,4000
+2/27/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,7,27,2,17,2022,3500
+8/21/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,7,21,8,17,2022,3500
+7/2/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,6,2,7,17,2022,3453
+1/8/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,6,8,1,17,2022,3000
+9/11/2022 17:00,wagholi,nigadi,Khadaki,1,7,11,9,17,2022,2789
+3/20/2022 17:00,wagholi,nigadi,Khadaki,1,7,20,3,17,2022,2500
+1/29/2022 17:00,wagholi,nigadi,Khadaki,1,6,29,1,17,2022,2300
+12/24/2022 17:00,wagholi,nigadi,Lohgaon Rd,1,6,24,12,17,2022,2000
+12/31/2022 18:00,wagholi,nigadi,Khadaki,1,6,31,12,18,2022,5510
+12/31/2022 18:00,wagholi,nigadi,Khadaki,1,6,31,12,18,2022,5509
+11/1/2022 18:00,wagholi,nigadi,Khadaki,1,2,1,11,18,2022,5946
+5/10/2022 18:00,wagholi,nigadi,Khadaki,1,2,10,5,18,2022,5628
+11/26/2022 18:00,wagholi,nigadi,Khadaki,1,6,26,11,18,2022,5432
+6/8/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,3,8,6,18,2022,5392
+10/11/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,2,11,10,18,2022,5300
+2/3/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,4,3,2,18,2022,5200
+2/24/2022 18:00,wagholi,nigadi,Khadaki,1,4,24,2,18,2022,5200
+3/25/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,5,25,3,18,2022,5200
+9/16/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,5,16,9,18,2022,5200
+11/30/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,3,30,11,18,2022,5200
+7/28/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,4,28,7,18,2022,5000
+9/12/2022 18:00,wagholi,nigadi,Khadaki,1,1,12,9,18,2022,4987
+10/7/2022 18:00,wagholi,nigadi,Khadaki,1,5,7,10,18,2022,4986
+12/21/2022 18:00,wagholi,nigadi,Khadaki,1,3,21,12,18,2022,4967
+1/5/2022 18:00,wagholi,nigadi,Khadaki,1,3,5,1,18,2022,4900
+6/29/2022 18:00,wagholi,nigadi,Khadaki,1,3,29,6,18,2022,4876
+8/18/2022 18:00,wagholi,nigadi,Khadaki,1,4,18,8,18,2022,4637
+3/21/2022 18:00,wagholi,nigadi,Khadaki,1,1,21,3,18,2022,4600
+7/24/2022 18:00,wagholi,nigadi,Khadaki,1,7,24,7,18,2022,4567
+6/4/2022 18:00,wagholi,nigadi,Khadaki,1,6,4,6,18,2022,4382
+4/19/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,2,19,4,18,2022,4300
+2/28/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,1,28,2,18,2022,4000
+8/22/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,1,22,8,18,2022,4000
+7/3/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,7,3,7,18,2022,3421
+5/14/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,6,14,5,18,2022,3124
+1/9/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,7,9,1,18,2022,3100
+11/5/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,6,5,11,18,2022,3000
+1/30/2022 18:00,wagholi,nigadi,Khadaki,1,7,30,1,18,2022,2500
+4/15/2022 18:00,wagholi,nigadi,Khadaki,1,5,15,4,18,2022,2000
+12/25/2022 18:00,wagholi,nigadi,Lohgaon Rd,1,7,25,12,18,2022,900
+6/9/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,4,9,6,19,2022,5512
+5/11/2022 19:00,wagholi,nigadi,Khadaki,1,3,11,5,19,2022,5521
+7/4/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,1,4,7,19,2022,5678
+12/22/2022 19:00,wagholi,nigadi,Khadaki,1,4,22,12,19,2022,5647
+1/10/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,1,10,1,19,2022,5600
+11/27/2022 19:00,wagholi,nigadi,Khadaki,1,7,27,11,19,2022,5432
+2/4/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,5,4,2,19,2022,5400
+10/12/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,3,12,10,19,2022,5400
+9/13/2022 19:00,wagholi,nigadi,Khadaki,1,2,13,9,19,2022,5364
+2/25/2022 19:00,wagholi,nigadi,Khadaki,1,5,25,2,19,2022,5300
+12/1/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,4,1,12,19,2022,5300
+7/29/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,5,29,7,19,2022,5210
+1/6/2022 19:00,wagholi,nigadi,Khadaki,1,4,6,1,19,2022,5000
+3/1/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,2,1,3,19,2022,5000
+10/8/2022 19:00,wagholi,nigadi,Khadaki,1,6,8,10,19,2022,4755
+3/22/2022 19:00,wagholi,nigadi,Khadaki,1,2,22,3,19,2022,4700
+7/25/2022 19:00,wagholi,nigadi,Khadaki,1,1,25,7,19,2022,4654
+4/20/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,3,20,4,19,2022,4500
+8/23/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,2,23,8,19,2022,4500
+6/5/2022 19:00,wagholi,nigadi,Khadaki,1,7,5,6,19,2022,4277
+6/30/2022 19:00,wagholi,nigadi,Khadaki,1,4,30,6,19,2022,4257
+1/31/2022 19:00,wagholi,nigadi,Khadaki,1,1,31,1,19,2022,4000
+12/26/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,1,26,12,19,2022,4000
+8/19/2022 19:00,wagholi,nigadi,Khadaki,1,5,19,8,19,2022,3999
+11/2/2022 19:00,wagholi,nigadi,Khadaki,1,3,2,11,19,2022,3478
+11/6/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,7,6,11,19,2022,3100
+5/15/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,7,15,5,19,2022,2987
+3/26/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,6,26,3,19,2022,2500
+4/16/2022 19:00,wagholi,nigadi,Khadaki,1,6,16,4,19,2022,2000
+9/17/2022 19:00,wagholi,nigadi,Lohgaon Rd,1,6,17,9,19,2022,2000
+5/12/2022 20:00,wagholi,nigadi,Khadaki,1,4,12,5,20,2022,5509
+6/10/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,5,10,6,20,2022,5520
+7/5/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,2,5,7,20,2022,5525
+1/11/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,2,11,1,20,2022,5510
+10/13/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,4,13,10,20,2022,5500
+9/14/2022 20:00,wagholi,nigadi,Khadaki,1,3,14,9,20,2022,5432
+12/2/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,5,2,12,20,2022,5400
+1/7/2022 20:00,wagholi,nigadi,Khadaki,1,5,7,1,20,2022,5100
+12/23/2022 20:00,wagholi,nigadi,Khadaki,1,5,23,12,20,2022,4985
+3/23/2022 20:00,wagholi,nigadi,Khadaki,1,3,23,3,20,2022,4800
+4/21/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,4,21,4,20,2022,4700
+8/24/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,3,24,8,20,2022,4700
+11/28/2022 20:00,wagholi,nigadi,Khadaki,1,1,28,11,20,2022,4654
+2/1/2022 20:00,wagholi,nigadi,Khadaki,1,2,1,2,20,2022,4600
+6/6/2022 20:00,wagholi,nigadi,Khadaki,1,1,6,6,20,2022,4573
+7/1/2022 20:00,wagholi,nigadi,Khadaki,1,5,1,7,20,2022,4570
+12/27/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,2,27,12,20,2022,4500
+10/9/2022 20:00,wagholi,nigadi,Khadaki,1,7,9,10,20,2022,4352
+3/2/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,3,2,3,20,2022,4000
+11/7/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,1,7,11,20,2022,4000
+7/26/2022 20:00,wagholi,nigadi,Khadaki,1,2,26,7,20,2022,3865
+11/3/2022 20:00,wagholi,nigadi,Khadaki,1,4,3,11,20,2022,3865
+8/20/2022 20:00,wagholi,nigadi,Khadaki,1,6,20,8,20,2022,3857
+7/30/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,6,30,7,20,2022,3400
+2/26/2022 20:00,wagholi,nigadi,Khadaki,1,6,26,2,20,2022,3000
+5/16/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,1,16,5,20,2022,2765
+2/5/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,6,5,2,20,2022,2699
+3/27/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,7,27,3,20,2022,2600
+4/17/2022 20:00,wagholi,nigadi,Khadaki,1,7,17,4,20,2022,2300
+9/18/2022 20:00,wagholi,nigadi,Lohgaon Rd,1,7,18,9,20,2022,2200
+1/12/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,3,12,1,21,2022,5506
+5/17/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,2,17,5,21,2022,5511
+7/6/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,3,6,7,21,2022,5983
+5/13/2022 21:00,wagholi,nigadi,Khadaki,1,5,13,5,21,2022,5673
+12/24/2022 21:00,wagholi,nigadi,Khadaki,1,6,24,12,21,2022,5564
+10/14/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,5,14,10,21,2022,5450
+3/28/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,1,28,3,21,2022,5000
+4/22/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,5,22,4,21,2022,5000
+12/28/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,3,28,12,21,2022,5000
+3/24/2022 21:00,wagholi,nigadi,Khadaki,1,4,24,3,21,2022,4900
+6/7/2022 21:00,wagholi,nigadi,Khadaki,1,2,7,6,21,2022,4827
+8/25/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,4,25,8,21,2022,4800
+2/2/2022 21:00,wagholi,nigadi,Khadaki,1,3,2,2,21,2022,4700
+11/8/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,2,8,11,21,2022,4500
+9/15/2022 21:00,wagholi,nigadi,Khadaki,1,4,15,9,21,2022,4354
+11/29/2022 21:00,wagholi,nigadi,Khadaki,1,2,29,11,21,2022,4321
+9/19/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,1,19,9,21,2022,4000
+10/10/2022 21:00,wagholi,nigadi,Khadaki,1,1,10,10,21,2022,3945
+11/4/2022 21:00,wagholi,nigadi,Khadaki,1,5,4,11,21,2022,3921
+7/2/2022 21:00,wagholi,nigadi,Khadaki,1,6,2,7,21,2022,3568
+7/27/2022 21:00,wagholi,nigadi,Khadaki,1,3,27,7,21,2022,3546
+7/31/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,7,31,7,21,2022,3489
+6/11/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,6,11,6,21,2022,3455
+2/27/2022 21:00,wagholi,nigadi,Khadaki,1,7,27,2,21,2022,3400
+8/21/2022 21:00,wagholi,nigadi,Khadaki,1,7,21,8,21,2022,3256
+4/18/2022 21:00,wagholi,nigadi,Khadaki,1,1,18,4,21,2022,3000
+2/6/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,7,6,2,21,2022,2700
+1/8/2022 21:00,wagholi,nigadi,Khadaki,1,6,8,1,21,2022,2000
+12/3/2022 21:00,wagholi,nigadi,Lohgaon Rd,1,6,3,12,21,2022,1000
+1/13/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,4,13,1,22,2022,5519
+5/18/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,3,18,5,22,2022,5523
+7/7/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,4,7,7,22,2022,5678
+12/29/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,4,29,12,22,2022,5400
+2/7/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,1,7,2,22,2022,5200
+3/29/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,2,29,3,22,2022,5200
+3/25/2022 22:00,wagholi,nigadi,Khadaki,1,5,25,3,22,2022,5100
+2/3/2022 22:00,wagholi,nigadi,Khadaki,1,4,3,2,22,2022,5000
+2/28/2022 22:00,wagholi,nigadi,Khadaki,1,1,28,2,22,2022,5000
+8/26/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,5,26,8,22,2022,5000
+11/9/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,3,9,11,22,2022,5000
+9/20/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,2,20,9,22,2022,4300
+6/12/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,7,12,6,22,2022,4012
+11/5/2022 22:00,wagholi,nigadi,Khadaki,1,6,5,11,22,2022,3765
+6/8/2022 22:00,wagholi,nigadi,Khadaki,1,3,8,6,22,2022,3758
+9/16/2022 22:00,wagholi,nigadi,Khadaki,1,5,16,9,22,2022,3758
+4/19/2022 22:00,wagholi,nigadi,Khadaki,1,2,19,4,22,2022,3500
+7/3/2022 22:00,wagholi,nigadi,Khadaki,1,7,3,7,22,2022,3465
+12/25/2022 22:00,wagholi,nigadi,Khadaki,1,7,25,12,22,2022,3456
+11/30/2022 22:00,wagholi,nigadi,Khadaki,1,3,30,11,22,2022,3433
+8/22/2022 22:00,wagholi,nigadi,Khadaki,1,1,22,8,22,2022,3234
+5/14/2022 22:00,wagholi,nigadi,Khadaki,1,6,14,5,22,2022,3009
+7/28/2022 22:00,wagholi,nigadi,Khadaki,1,4,28,7,22,2022,2935
+10/11/2022 22:00,wagholi,nigadi,Khadaki,1,2,11,10,22,2022,2756
+4/23/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,6,23,4,22,2022,2000
+10/15/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,6,15,10,22,2022,2000
+1/9/2022 22:00,wagholi,nigadi,Khadaki,1,7,9,1,22,2022,1000
+12/4/2022 22:00,wagholi,nigadi,Lohgaon Rd,1,7,4,12,22,2022,900
+3/1/2022 23:00,wagholi,nigadi,Khadaki,1,2,1,3,23,2022,5600
+1/14/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,5,14,1,23,2022,5500
+8/27/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,6,27,8,23,2022,5400
+7/8/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,5,8,7,23,2022,4099
+9/17/2022 23:00,wagholi,nigadi,Khadaki,1,6,17,9,23,2022,3756
+6/9/2022 23:00,wagholi,nigadi,Khadaki,1,4,9,6,23,2022,3526
+5/19/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,4,19,5,23,2022,3450
+2/8/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,2,8,2,23,2022,3000
+3/30/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,3,30,3,23,2022,3000
+4/20/2022 23:00,wagholi,nigadi,Khadaki,1,3,20,4,23,2022,3000
+12/5/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,1,5,12,23,2022,3000
+12/30/2022 23:00,wagholi,nigadi,Khadaki,1,5,30,12,23,2022,3000
+6/13/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,1,13,6,23,2022,2987
+1/10/2022 23:00,wagholi,nigadi,Khadaki,1,1,10,1,23,2022,2800
+7/29/2022 23:00,wagholi,nigadi,Khadaki,1,5,29,7,23,2022,2788
+12/1/2022 23:00,wagholi,nigadi,Khadaki,1,4,1,12,23,2022,2765
+7/4/2022 23:00,wagholi,nigadi,Khadaki,1,1,4,7,23,2022,2567
+4/24/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,7,24,4,23,2022,2500
+8/23/2022 23:00,wagholi,nigadi,Khadaki,1,2,23,8,23,2022,2453
+10/12/2022 23:00,wagholi,nigadi,Khadaki,1,3,12,10,23,2022,2356
+2/4/2022 23:00,wagholi,nigadi,Khadaki,1,5,4,2,23,2022,2300
+9/21/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,3,21,9,23,2022,2300
+3/26/2022 23:00,wagholi,nigadi,Khadaki,1,6,26,3,23,2022,2000
+11/10/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,4,10,11,23,2022,2000
+12/26/2022 23:00,wagholi,nigadi,Khadaki,1,1,26,12,23,2022,1999
+11/6/2022 23:00,wagholi,nigadi,Khadaki,1,7,6,11,23,2022,1987
+10/16/2022 23:00,wagholi,nigadi,Lohgaon Rd,1,7,16,10,23,2022,1500
